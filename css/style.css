@@ -1,0 +1,9 @@
+body {
+    background-image: url("https://media.mnn.com/assets/images/2018/07/cat_eating_fancy_ice_cream.jpg.1080x0_q100_crop-scale.jpg");
+    background-size: cover;
+}
+
+img {
+    width: 20vw;
+    box-shadow: 0 0 10px Orange, 0 10px 10px Cyan, 10px 0 10px lightcoral;
+}
